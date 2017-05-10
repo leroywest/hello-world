@@ -1,2 +1,2 @@
 # hello-world
-test repository on GitHub
+Leigh Weston, learning GitHub finally
